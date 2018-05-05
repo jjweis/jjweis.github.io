@@ -24,4 +24,4 @@ var chart1 = calendarHeatmap()
               .onClick(function (data) {
                 console.log('onClick callback. Data:', data);
               });
-chart1();  // render the chart
+  
