@@ -18,7 +18,8 @@ var bikeRides = [
 
 var rideChart = calendarHeatmap()
               .data(bikeRides)
-
+              .startDate(new Date(2018,0,1))
+              .tooltipUnit('ride')
               .colorRange(['#D8E6E7', '#218380'])
               .tooltipEnabled(true)
               .onClick(function (data) {
