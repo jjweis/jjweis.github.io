@@ -12,7 +12,8 @@ var bikeRides = [
   {date: new Date(2018,3,27) , count: 1 },
   {date: new Date(2018,3,30) , count: 1 },
   {date: new Date(2018,4,2) , count: 1 },
-  {date: new Date(2018,4,4) , count: 1 }
+  {date: new Date(2018,4,4) , count: 1 },
+  {date: new Date(2018,4,7) , count: 1 }
 
 ];
 
