@@ -57,7 +57,9 @@ var bikeRides = [
   {date: new Date(2019,7,28), count: 1 },
   {date: new Date(2019,7,30), count: 1 },
   {date: new Date(2019,8,4), count: 1 },
-  {date: new Date(2019,8,6), count: 1 }
+  {date: new Date(2019,8,6), count: 1 },
+  {date: new Date(2019,8,9), count: 1 },
+  {date: new Date(2019,8,10), count: 1 }
 ];
 
 var rideChart = calendarHeatmap()
